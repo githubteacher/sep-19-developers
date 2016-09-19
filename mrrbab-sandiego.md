@@ -6,8 +6,9 @@
 ### Local Attractions
 - Sea World
 - Lego Land
-- Beaches
+- Beaches Delmar, Lajolla
 - Local breweries 
 
 ### For the nature lovers
 - San Diego Zoo
+- hicking places Torrey Pines and much more all around.
