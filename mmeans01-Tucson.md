@@ -5,7 +5,7 @@
  - Eegees
 
 ### Local Attractions
- - Desert Museum
+ - Arizona-Sonora Desert Museum
  
 ### For the nature lovers
  - Saguaro National Park
