@@ -9,7 +9,6 @@
 
 ### Before We Begin
 - Sign up for an account on [github.com](http://github.com)
-- Navigate to this repository: https://github.com/githubteacher/developers-jun-2016-americas/
 
 ### Talk To Us! :speech_balloon:
 - [![Gitter](https://badges.gitter.im/githubteacher/sep-19-developers.svg)](https://gitter.im/sep-19-developers/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
