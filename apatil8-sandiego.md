@@ -13,3 +13,6 @@
 
 ### Tourist recommendation
 I recommend atleast 2 weeks time to really take in the magic that is San Diego.
+
+###Edit from command line
+Hello All
