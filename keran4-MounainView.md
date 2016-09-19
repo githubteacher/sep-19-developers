@@ -6,7 +6,7 @@
 - Park Ballouchi
 
 ### Local Attractions
-- SFO downtown :)
+- Amphitheater :)
 
 ### For nature lovers
 - Shoreline Lake
