@@ -5,6 +5,6 @@
 - Iron Mountain
 
 ### For kids
-- Zoo
-- La Jolla
+- Zoo: San Diego Zoo and Wild animal park
+- La Jolla: Cove
 
