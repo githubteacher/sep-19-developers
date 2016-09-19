@@ -8,6 +8,7 @@
 
 -Science city
 -Vivekananda statue
+-Tirunelly temple
 
 ###For the nature
 -Pookot lake
