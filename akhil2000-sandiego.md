@@ -1,9 +1,12 @@
 # San Diego, CA
 
-Restaurants
- rest 1
- rest 2
+### Restaurants
+ -Yard house
+ -Cafe Coyote
  
- Attraction
- attract1
- attract2
+ ### Local Attraction
+ -Seaworld
+ -Legoland
+ 
+### 
+-Penasquitos preserve
