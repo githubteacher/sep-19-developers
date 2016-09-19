@@ -2,6 +2,7 @@
 
 ### Restaurnats
 -Kabul
+-Humas
 
 ###Local Attractions
 -Zoo
