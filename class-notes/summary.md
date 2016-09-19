@@ -1,4 +1,4 @@
-## Canned Recaps
+## GitHub for Developers
 
 These are for use during webinars of GitHub for Developers. They are organized by module, and should be sent during breaks in Gitter or chat.
 
