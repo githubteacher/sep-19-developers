@@ -1,4 +1,4 @@
-#Stafford, Va
+#Stafford, Va (2230 Miles from Tucson Az)
 
 ### Resturants
 - Old Must Tavern
