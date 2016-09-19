@@ -1,4 +1,4 @@
-# Ahmedabad, GJ
+# Ahmedabad, GJ, INDIA
 
 ### Restaurants
 - Tulsi
@@ -10,4 +10,4 @@
 - Riverfront
 
 ### For the nature lovers
-- Nal Sarovar
+- Nal Sarovar (Home of migrating birds in winter)
