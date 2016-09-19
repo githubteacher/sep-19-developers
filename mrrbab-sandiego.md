@@ -6,6 +6,8 @@
 ### Local Attractions
 - Sea World
 - Lego Land
+- Aquatic World
+- Safari park
 - Beaches Delmar, Lajolla
 - Local breweries 
 
