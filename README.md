@@ -12,7 +12,7 @@
 - Navigate to this repository: https://github.com/githubteacher/developers-jun-2016-americas/
 
 ### Talk To Us! :speech_balloon:
-- [![Gitter](https://badges.gitter.im/githubteacher/sep-19-developers.svg)](https://gitter.im/githubteacher/sep-19-developers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- [![Gitter](https://badges.gitter.im/githubteacher/sep-19-developers.svg)](https://gitter.im/sep-19-developers/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 - :point_up_2: Click the button to join us on Gitter for Q&A
 
 ### Resources
