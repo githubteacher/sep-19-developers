@@ -4,7 +4,7 @@
  -Yard house
  -Cafe Coyote
  
- ### Local Attraction
+### Local Attraction
  -Seaworld
  -Legoland
  
