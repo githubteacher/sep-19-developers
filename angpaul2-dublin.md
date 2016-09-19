@@ -6,3 +6,6 @@
 
 ### Local Attractions
 - History Museum --It is a heritage museum with historic buildings, lawns and a historic cemetary
+
+### For nature lovers
+- Hiking Trails
