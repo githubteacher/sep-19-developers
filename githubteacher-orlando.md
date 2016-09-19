@@ -6,7 +6,10 @@
 
 ### Local Attractions
 - Disney World
-  - Orlando hosts 4 parks + 2 water parks
+  - Animal Kingdom
+  - Epcot
+  - Hollywood Studios
+  - Magic Kingdom
 - Universal Studios
 - The theme parks all host some great artists
 - Dr. Philips Center for the Performing Arts is a world-class venue for musicians
