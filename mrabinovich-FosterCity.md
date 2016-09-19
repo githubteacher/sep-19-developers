@@ -1,4 +1,4 @@
-# Foster City, CA
+# Foster City, California
 
 ### Restaurnats
 -Kabul
